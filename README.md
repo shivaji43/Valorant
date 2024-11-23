@@ -14,4 +14,4 @@ If you'd like to check out the project on your own machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/valorant-website.git
+   git clone https://github.com/shivaji43/valorant-website.git
