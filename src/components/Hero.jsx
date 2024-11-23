@@ -189,7 +189,7 @@ const Hero = () => {
   const totalVideos = 4;
   const videoRefs = useRef(Array(totalVideos).fill(null).map(() => useRef(null)));
   const currentVideoRef = useRef(null);
-  const nextVideoRef = useRef(null);
+  //const nextVideoRef = useRef(null);
 
   const handleVideoLoad = () => {
     setLoadedVideos((prev) => prev + 1);
@@ -340,5 +340,3 @@ const Hero = () => {
 };
 
 export default Hero;
-
-
